@@ -1,0 +1,17 @@
+C:\Users\Александр\source\repos\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Александр\source\repos\NUnitTestProject2\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Александр\source\repos\NUnitTestProject2\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Александр\source\repos\NUnitTestProject2\bin\Debug\netcoreapp2.2\ParserTests.deps.json
+C:\Users\Александр\source\repos\NUnitTestProject2\bin\Debug\netcoreapp2.2\ParserTests.runtimeconfig.json
+C:\Users\Александр\source\repos\NUnitTestProject2\bin\Debug\netcoreapp2.2\ParserTests.runtimeconfig.dev.json
+C:\Users\Александр\source\repos\NUnitTestProject2\bin\Debug\netcoreapp2.2\ParserTests.dll
+C:\Users\Александр\source\repos\NUnitTestProject2\bin\Debug\netcoreapp2.2\ParserTests.pdb
+C:\Users\Александр\source\repos\NUnitTestProject2\bin\Debug\netcoreapp2.2\Parser.dll
+C:\Users\Александр\source\repos\NUnitTestProject2\bin\Debug\netcoreapp2.2\Parser.pdb
+C:\Users\Александр\source\repos\NUnitTestProject2\obj\Debug\netcoreapp2.2\ParserTests.csprojAssemblyReference.cache
+C:\Users\Александр\source\repos\NUnitTestProject2\obj\Debug\netcoreapp2.2\ParserTests.csproj.CoreCompileInputs.cache
+C:\Users\Александр\source\repos\NUnitTestProject2\obj\Debug\netcoreapp2.2\ParserTests.AssemblyInfoInputs.cache
+C:\Users\Александр\source\repos\NUnitTestProject2\obj\Debug\netcoreapp2.2\ParserTests.AssemblyInfo.cs
+C:\Users\Александр\source\repos\NUnitTestProject2\obj\Debug\netcoreapp2.2\ParserTests.csproj.CopyComplete
+C:\Users\Александр\source\repos\NUnitTestProject2\obj\Debug\netcoreapp2.2\ParserTests.dll
+C:\Users\Александр\source\repos\NUnitTestProject2\obj\Debug\netcoreapp2.2\ParserTests.pdb
